@@ -1,2 +1,2 @@
-npm instart
+cnpm instart
 npm run build
