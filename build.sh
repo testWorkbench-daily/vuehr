@@ -1,3 +1,3 @@
-npm instart
-npm install @vue/cli-service -g 
+npm install
+npm install @vue/cli-service
 npm run build 
